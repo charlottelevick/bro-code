@@ -6,6 +6,6 @@ adjective1 = input("Please enter an adjective (a word that describes a noun): ")
 noun2 = input("Please enter another noun (a person, place or thing): ")
 verb = input("Please enter a verb (a word used to describe an action): ")
 
-print(f"\nToday I went to the zoo and I saw a {noun1}")
-print(f"The {noun1} was really {adjective1}.")
-print(f"I also saw a {noun2} {verb}! I couldn't believe it. What a great day!")
+print(f"""\nToday I went to the zoo and I saw a {noun1}.
+The {noun1} was really {adjective1}.
+I also saw a {noun2} {verb}! I couldn't believe it! What a great day!""")
