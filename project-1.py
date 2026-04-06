@@ -1,5 +1,6 @@
 #Madlibs
 # A word game where you create a story by filling in blanks with random words
+# Practicing input and print statements and f-strings
 
 noun1 = input("Please enter a noun (a person, place or thing): ")
 adjective1 = input("Please enter an adjective (a word that describes a noun): ")
